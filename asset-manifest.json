@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flesh/static/css/main.cc94221a.chunk.css",
+    "main.js": "/flesh/static/js/main.5652cd9c.chunk.js",
+    "main.js.map": "/flesh/static/js/main.5652cd9c.chunk.js.map",
+    "runtime-main.js": "/flesh/static/js/runtime-main.fee98e64.js",
+    "runtime-main.js.map": "/flesh/static/js/runtime-main.fee98e64.js.map",
+    "static/js/2.419a8556.chunk.js": "/flesh/static/js/2.419a8556.chunk.js",
+    "static/js/2.419a8556.chunk.js.map": "/flesh/static/js/2.419a8556.chunk.js.map",
+    "static/js/3.11fa1664.chunk.js": "/flesh/static/js/3.11fa1664.chunk.js",
+    "static/js/3.11fa1664.chunk.js.map": "/flesh/static/js/3.11fa1664.chunk.js.map",
+    "index.html": "/flesh/index.html",
+    "static/css/main.cc94221a.chunk.css.map": "/flesh/static/css/main.cc94221a.chunk.css.map",
+    "static/js/2.419a8556.chunk.js.LICENSE.txt": "/flesh/static/js/2.419a8556.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fee98e64.js",
+    "static/js/2.419a8556.chunk.js",
+    "static/css/main.cc94221a.chunk.css",
+    "static/js/main.5652cd9c.chunk.js"
+  ]
+}
