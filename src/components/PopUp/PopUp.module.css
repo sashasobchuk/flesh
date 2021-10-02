@@ -1,0 +1,63 @@
+.folder{
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color:  rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    z-index: 2;
+
+}
+.form{
+    width: 500px;
+    height: auto;
+    font-size: 16px;
+    background-color: white;
+    border-radius: 16px;
+    padding: 1vw;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.password, .login ,.btn_send{
+    width: 100%;
+    padding: 0.5vw;
+    margin: 0.5vw;
+    text-align: center;
+    border-radius: 5px;
+    border: black 2px solid;
+}
+.btn_send{
+    background-color: #61dafb;
+}
+
+@media (max-width: 500px) {
+
+
+    .popUp{
+        border-radius:15px ;
+        width: 100vw;
+        height: auto;
+        font-size: 2vw;
+    }
+}
+@media (max-width: 200px) {
+    .popUp{
+        border-radius:10px ;
+        font-size: 4vw;
+    }
+}
+
+
+
+
+
+
+
+

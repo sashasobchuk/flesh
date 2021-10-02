@@ -1,0 +1,68 @@
+.cardFolder {
+    width: 100%;
+}
+.card{
+    border: black solid 2px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    width: 100%;
+    flex-grow: 1;
+}
+
+.btn{
+    display: flex;
+    height: 30px;
+    padding: 5px;
+    margin: 5px;
+}
+.toDoListName{
+    flex-grow: 0.9;
+    text-align: center;
+
+}
+.nav{
+    flex-grow: 0.1;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.btn,.delete,.allTicekts,.editName{
+    border: #02040350 solid 3px;
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    position: relative;
+    border-radius: 5px;
+    cursor:pointer;
+
+}
+.editName{
+    width: 60px;
+}
+.delete:hover{
+    background-color: red;
+}
+
+.allTicekts{
+    transform: rotate(90deg);
+    font-weight: bold;
+    font-size: 30px;
+}
+.allTicekts:hover{
+background-color: #61dafb;
+    cursor:pointer;
+}
+
+.tickets{
+    padding-left: 60px;
+}
+
+
+
+
